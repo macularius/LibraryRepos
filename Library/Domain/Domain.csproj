@@ -81,7 +81,6 @@
   <ItemGroup>
     <Compile Include="Abstract\IBookRepository.cs" />
     <Compile Include="Concrete\EFBookRepository.cs" />
-    <Compile Include="Entities\Accaunt.cs" />
     <Compile Include="Entities\Book.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
