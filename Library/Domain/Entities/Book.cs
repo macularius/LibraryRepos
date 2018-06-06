@@ -21,7 +21,6 @@ namespace Domain.Entities
             this.Author = Author;
             this.Description = Description;
             this.Genre = Genre;
-            this.Price = Price;
         }
     }
 }
